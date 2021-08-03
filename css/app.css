@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(131, 52, 69);
+  color: rgb(181, 199, 82);
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+table {
+  margin: auto;
+  background-color: rgb(56, 96, 119);
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.modal {
+  background-color: rgb(75, 96, 136);
+  color: white;
+  text-align: center;
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: auto;
+  padding: 5px;
+  width: 500px;
+}
+
+button {
+  width: 80px;
+  height: 40px;
+  background-color: blanchedalmond;
+  color: rgb(154, 154, 212);
+  border-radius: 20%;
+  margin-bottom: 20px;
+  font-size: 1em;
+  text-align: center;
+}
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
